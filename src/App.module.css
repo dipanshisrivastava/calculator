@@ -1,0 +1,18 @@
+.container {
+    height: 591px;
+    background-color: cadetblue;
+}
+
+.heading {
+    margin-top: 2px;
+    text-align: center;
+}
+
+.calculator {
+    border: 1px solid rgba(90, 90, 90);
+    width: 200px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 100px;
+    padding: 5px;
+}
